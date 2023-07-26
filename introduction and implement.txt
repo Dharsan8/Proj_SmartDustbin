@@ -1,0 +1,21 @@
+Introduction:
+
+The dustbin opens automatically when it receives the signal and closes its hatch. 
+Also the dustbin consists of a level sensing ultrasonic sensor that constantly measures 
+the level of garbage in the bin and automatically detects if it is about to fill up.
+
+Requirements:
+
+Software requirements :
+
+1.Blynk Application
+2.Arduino IDE
+
+Hardware Requirements :
+
+1.Arduino UNO
+2.NODEMCU
+3.Ultrasonic Sensor*2
+4.Servo SG90
+5.Wires
+
